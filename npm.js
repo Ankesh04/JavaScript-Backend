@@ -19,6 +19,4 @@
 //if we have to use the package then we have to make a index.js file
 
 // package.json
-// .....
-// hi hisw r y o u
-const hi = 1;
+// 
